@@ -18,6 +18,8 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
+    "@mst/srv": "file:../mst-ws-srv/dist/mst-srv",
+    "@mst/ui": "file:../mst-ws-ui/dist/mst-ui",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
